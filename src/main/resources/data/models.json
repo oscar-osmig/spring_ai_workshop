@@ -1,0 +1,47 @@
+[
+  {
+    "company": "OpenAI",
+    "model": "GPT-4.1",
+    "context_window_size": 1000000
+  },
+  {
+    "company": "OpenAI",
+    "model": "GPT-4o",
+    "context_window_size": 128000
+  },
+  {
+    "company": "Anthropic",
+    "model": "Claude 2.1",
+    "context_window_size": 200000
+  },
+  {
+    "company": "Anthropic",
+    "model": "Claude 3.7 Sonnet",
+    "context_window_size": 200000
+  },
+  {
+    "company": "Google DeepMind",
+    "model": "PaLM 2",
+    "context_window_size": 8192
+  },
+  {
+    "company": "Meta",
+    "model": "LLaMA 2",
+    "context_window_size": 4096
+  },
+  {
+    "company": "Cohere",
+    "model": "Command R",
+    "context_window_size": 8192
+  },
+  {
+    "company": "Stability AI",
+    "model": "StableLM",
+    "context_window_size": 4096
+  },
+  {
+    "company": "AI21 Labs",
+    "model": "Jurassic-2 Jumbo",
+    "context_window_size": 8192
+  }
+]
